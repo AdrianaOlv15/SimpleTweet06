@@ -35,13 +35,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/AdrianaOlv15/SimpleTweet06/blob/master/WT_SimpleTweetApp_part2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was stuck for while trying to figure how to set the character counter, but a TA helped me. 
 
 ## Open-source libraries used
 
